@@ -6,7 +6,7 @@ The project was built using .Net WinForm.
 This project is currently in development. Users now can play the game and add features and animations
 
 #### Project Screen Shot (Windows Version):
-<img src="https://raw.github.com/DinYehoshua/MemoryGame/blob/main/PlayFormScreenShot.png" 
+<img src="https://github.com/DinYehoshua/MemoryGame/blob/main/SettingFormScreenShot.png?raw=true" 
 width=400px>
 
 ## Reflection

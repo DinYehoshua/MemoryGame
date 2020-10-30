@@ -7,10 +7,12 @@ This project is currently in development. Users now can play the game and add fe
 
 #### Project Screen Shot (Windows Version):
 Settings Window
+
 <img src="https://github.com/DinYehoshua/MemoryGame/blob/main/SettingFormScreenShot.png?raw=true" 
 width=400px>
 
 Play Window
+
 <img src="https://github.com/DinYehoshua/MemoryGame/blob/main/PlayFormScreenShot.png?raw=true" 
 width=400px>
 
